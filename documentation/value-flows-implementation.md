@@ -4,6 +4,10 @@ description: An articulation in the Value Flows language using HoloREA modules.
 
 # Value Flows Implementation
 
+![Mapping of Reputation data model to Value Flows \(details in the image partially correct. Check text below for more.\)](../.gitbook/assets/architecture.png)
+
+![Details in the image partially correct. Check text below for more.](../.gitbook/assets/architecture.png)
+
 ![](../.gitbook/assets/reputation.png)
 
 ## Agents and Resources

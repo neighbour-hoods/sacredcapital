@@ -6,5 +6,5 @@ description: >-
 
 # Technical
 
-![](../../.gitbook/assets/architecture.png)
+![Mapping of Reputation data model to Value Flows](../../.gitbook/assets/architecture.png)
 
