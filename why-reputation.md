@@ -1,3 +1,7 @@
+---
+description: Building the foundations of a new wealth system
+---
+
 # Why Reputation?
 
 Reputation Currencies play an important role in distributed economics. As explained by the Metacurrency project, such currencies [operate radically differently](https://medium.com/metacurrency-project/reputation-is-orthogonal-to-exchange-f113a51dab6c) to monetary currencies. But they work well when validating different kinds of value, such as the potential of an agent in a specific context, or when predicting specific human behaviour based on past history. 
@@ -11,4 +15,10 @@ By using Sacred Capital's reputational infrastructure we facilitate network effe
 ![](https://docs.google.com/drawings/u/0/d/shHte9h9W46ClenUo-yzYbQ/image?w=454&h=211&rev=212&ac=1&parent=1XDgOlqlhmbIPoqrI2v3Ap8wdk1yDAMWWIUSKz1VT6lQ)
 
 The benefits of using such a wealth system lie in it's ability to validate a broader spectrum of value, enable communities to self-organise without the need for 'inclusion' of any sort and in the long run provide a sense of sufficiency to humans without having to resort to monetary currencies in every situation.
+
+More conversations about Reputation, and the role it plays in newer economic paradigms can found in conversations on our events page.
+
+{% embed url="https://www.sacred.capital/events" %}
+
+
 

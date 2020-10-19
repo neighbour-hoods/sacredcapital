@@ -6,7 +6,5 @@ Why Holochain?
 
 Different blocks. 
 
-|  |  |
-| :--- | :--- |
-
+![](../.gitbook/assets/rep-vault-modules.png)
 
