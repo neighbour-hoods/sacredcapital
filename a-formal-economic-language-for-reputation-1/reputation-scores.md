@@ -56,37 +56,3 @@ To facilitate easy articulation of Reputation Scores within a Neighbourhood, Sac
 
 Note: agents will also hold the option of swapping out the 'Canonical Perspective' as suggested by a Neighbourhood, to maintain their own 'lens' on another agent by constructing their own Perspective. This in being achieved in collaboration with the [Perspectivism infrastructure](https://github.com/lucksus/perspectivism) developed by Nicolas Luck.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![](../.gitbook/assets/relative-rep.gif)
-
-
-
-![](../.gitbook/assets/distribution-curves.gif)
-

@@ -16,7 +16,7 @@ The Reputation Vault serves two primary functions:
 
 a. Enables micro-networks of people to articulate their culture formally and for agents to discover one another on the basis of this cultural articulation. And; 
 
-b. Allows agents to port their reputation data into other contexts, and in doing so generates contextual network effects for reputation. 
+b. Allows agents to port their reputation data into other contexts, and in doing so generates  network effects for reputation. 
 
 _In the long run, we hope this may facilitate new kinds of social orchestration through the construction of 'Neighbourhoods'._ 
 
