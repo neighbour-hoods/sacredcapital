@@ -6,13 +6,17 @@ description: Economic Infrastructure for Distributed Networks
 
 Distributed networks operate without the benefits of overarching consensus or legal systems. Formally articulated, agent-centric reputation systems help communities and individuals discover and interact with each other in such environments. 
 
-Sacred Capital is building modular infrastructure that help micro-communities, Neighbourhoods, apps and networks drive whole new dimensions of engagement for their members.
+Sacred Capital is building modular infrastructure that micro-communities, Neighbourhoods, apps and networks drive whole new dimensions of engagement for their members.
 
 At the heart of our infrastructure is the Reputation Vault, a suite of libraries, micro-services and a formal language for cultural articulation. The first implementation of the Reputation Vault is on Holochain's agent-centric fabric because of it's emphasis on contextual validation.
 
 ![](.gitbook/assets/rep-vault.png)
 
-The Reputation Vault enables communities to articulate their culture formally, allows agents to discover one another on the basis of this cultural articulation and port their reputation across contexts. 
+The Reputation Vault serves two primary functions: 
+
+a. Enables micro-networks of people to articulate their culture formally and for agents to discover one another on the basis of this cultural articulation. And; 
+
+b. Allows agents to port their reputation data into other contexts, and in doing so generates contextual network effects for reputation. 
 
 The Reputation Vault is built out as a collection of the following modules:
 
