@@ -1,5 +1,5 @@
 ---
-description: The intersection of Monetary and Reputational currencies
+description: The intersection between Monetary and Reputational currencies
 ---
 
 # Money and Reputation
