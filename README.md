@@ -18,6 +18,8 @@ a. Enables micro-networks of people to articulate their culture formally and for
 
 b. Allows agents to port their reputation data into other contexts, and in doing so generates contextual network effects for reputation. 
 
+_In the long run, we hope this may facilitate new kinds of social orchestration through the construction of 'Neighbourhoods'._ 
+
 The Reputation Vault is built out as a collection of the following modules:
 
 **1. Reputation Libraries**
@@ -36,13 +38,7 @@ Reputation data from across contexts is computed within a neighbourhood to gener
 
 Sacred Capital's DSL facilitates easy articulation of scores to empower collectives to modulate their internal culture.
 
-The Reputation Vault plays a key role in activating Reputation Currencies, and generating network effects for them _In the long run, we hope this may facilitate new kinds of social orchestration through the construction of 'Neighbourhoods'._ 
+\_\_
 
-![](.gitbook/assets/bazaars%20%281%29.png)
 
-Bazaars is a set of tools for commercial operations rooted in social fabric. Think of it as a _cross-membrane co-ordination protocol for monetary transactions in multiple Neighbourhoods_. These protocols are specifically suited to avoid common multi-exchange problems like double-spending and differential offers made based on the context. 
-
-Bazaars heavily leverages Holo-REA/Value Flows protocols. 
-
-The intersection of monetary and reputational currencies. See Bazaars link for more. They are orthogonal.
 

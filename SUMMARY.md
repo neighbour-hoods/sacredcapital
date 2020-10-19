@@ -9,5 +9,5 @@
   * [Technical Architecture](a-formal-economic-language-for-reputation-1/technical-architecture.md)
 * [Porting Reputation through Memetic Bridges](untitled.md)
 * [Examples of Memetic Propagation](examples-of-memetic-mediation.md)
-* [Bazaars](bazaars.md)
+* [Money and Reputation](bazaars.md)
 
