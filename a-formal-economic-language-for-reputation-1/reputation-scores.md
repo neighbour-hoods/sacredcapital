@@ -46,7 +46,13 @@ $$
 
 > The computed score is a function of the context. We call this Canonical Perspective, or shared by everyone in the DHT.
 
-To facilitate easy articulation of Reputation Scores within a Neighbourhood, Sacred Capital is developing a Domain Specific Language. We also plan on providing easy-to-use templates and distribution curves that further aid this process. More on this will be published later. 
+As the image below suggests, this perspective isn't held as a universal label. Rather, it is computed locally as a contextual sense-making framework within a neighbourhood.
+
+![](../.gitbook/assets/screenshot-2020-10-19-at-10.34.32-am-2-.png)
+
+
+
+To facilitate easy articulation of Reputation Scores within a Neighbourhood, Sacred Capital is developing a Domain Specific Language. We also plan on providing easy-to-use templates and distribution curves that further aid this process. More on this to be published later. 
 
 Note: agents will also hold the option of swapping out the 'Canonical Perspective' as suggested by a Neighbourhood, to maintain their own 'lens' on another agent by constructing their own Perspective. This in being achieved in collaboration with the [Perspectivism infrastructure](https://github.com/lucksus/perspectivism) developed by Nicolas Luck.
 
