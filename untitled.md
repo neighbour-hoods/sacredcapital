@@ -18,24 +18,14 @@ Why memetic bridges:
 
 A memetic bridge is established when a Neighbourhood 'trusts' a specific set of members to access reputation data from another Neighbourhood. Of course, it is critical for these members to have access to this other Neighbourhood. Trust, therefore, remains a human question, and is not 'automated' away through distributed ledgers. Who the neighbourhood trusts, and for what information defines the quality of the memetic bridge, and the veracity of the information that it delivers.
 
-This document outlines the technical architecture for memetic bridges in agent-centric environments like Holochain: [https://hackmd.io/SggiWgmLQyuyFany\_y3pyw?both](https://hackmd.io/SggiWgmLQyuyFany_y3pyw?both)
+This document outlines the technical architecture for memetic bridges in agent-centric environments like Holochain: 
+
+{% embed url="https://hackmd.io/SggiWgmLQyuyFany\_y3pyw?both" %}
+
+
 
 Establishing bridges has far-reaching consequences:
 
 1. Eventually developing a sense of sufficiency with reputational wealth: This occurs through contextual network effects for reputation that a user may have earned in one neighbourhood.
-2. Reinforcing collaborative patterns between collectives: instead of them just being trade, they can now be non-zero-sum in nature. Large scale global problems can be attempted using a vast network of memetic bridges.  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+2. Reinforcing collaborative patterns between collectives: instead of them just being trade, they can now be non-zero-sum in nature. Large scale global problems can be attempted using a vast network of memetic bridges. 
 
