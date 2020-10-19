@@ -20,5 +20,9 @@ More conversations about Reputation, and the role it plays in newer economic par
 
 {% embed url="https://www.sacred.capital/events" %}
 
+{% embed url="https://soundcloud.com/moonshotcity/ep-5-siddharth-sthalekar-on-the-reputation-economy-and-multi-dimensional-wealth?fbclid=IwAR38I78GxSVewLcV-hwlM2Uwg5R5FyFeWtJf-9aCftO8HUUUj4IXJiN4UoY" %}
+
+{% embed url="https://twitter.com/c4ssdotorg/status/1280273163146997766" %}
+
 
 
