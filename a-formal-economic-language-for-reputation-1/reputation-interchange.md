@@ -12,6 +12,10 @@ description: Consent mechanism for reputation data porting
 
 > The tension generated between a Neighbourhood, and an agent who consents, drives 'contextuality' for such reputation linkages. This tension is similar to demand-supply dynamics that ensure establishment of prices for goods and services in the monetary economy.
 
+{% hint style="info" %}
+Interchange always occurs at the level of reputation data, and not on computed scores. The scores are always linked to a specific context, and don't 'port' well.
+{% endhint %}
+
 This data is ported through established 'memetic bridges' which ensure veracity of data through validation rules.The quality and strength of memetic bridges define how 'trustable' this data is. In that sense, trust remains a 'human problem' that cannot be automated away simply by the use of distributed ledgers.
 
 ![](../.gitbook/assets/image%20%281%29.png)
@@ -19,8 +23,6 @@ This data is ported through established 'memetic bridges' which ensure veracity 
 By enabling agents to gain the benefits of reputation data across communities, we hope to generate 'network effects' for reputation currencies, and in doing so build the foundations of reputation economics. Scalable reputation currencies have the potential to develop radically new organisational structures like 'Neighbourhoods' through multi-dimensional wealth systems.
 
 ![](../.gitbook/assets/memetic-bridges-4.png)
-
-
 
 
 
