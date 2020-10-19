@@ -1,13 +1,13 @@
 # Table of contents
 
-* [A Formal Economic Language for Reputation](README.md)
-
-## Documentation
-
-* [Technical](documentation/technical/README.md)
-  * [Reputation Data Types](documentation/technical/reputation-data-types.md)
-  * [Reputation Interchange](documentation/technical/reputation-interchange.md)
-  * [Reputation Scores](documentation/technical/reputation-scores.md)
-* [Value Flows Implementation](documentation/value-flows-implementation.md)
-* [Holochain Implementation](holochain-implementation.md)
+* [Sacred Capital](README.md)
+* [Why Reputation?](why-reputation.md)
+* [The Reputation Vault](a-formal-economic-language-for-reputation-1/README.md)
+  * [Reputation Data](a-formal-economic-language-for-reputation-1/reputation-data.md)
+  * [Reputation Interchange](a-formal-economic-language-for-reputation-1/reputation-interchange.md)
+  * [Reputation Scores](a-formal-economic-language-for-reputation-1/reputation-scores.md)
+  * [Technical Architecture](a-formal-economic-language-for-reputation-1/technical-architecture.md)
+* [Porting Reputation through Memetic Bridges](untitled.md)
+* [Examples of Memetic Propagation](examples-of-memetic-mediation.md)
+* [Bazaars](bazaars.md)
 

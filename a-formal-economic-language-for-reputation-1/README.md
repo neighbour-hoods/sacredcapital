@@ -1,16 +1,16 @@
 ---
-description: Economic Infrastructure for Distributed Networks
+description: Porting of Reputation across networks
 ---
 
-# Sacred Capital
+# The Reputation Vault
 
 Distributed networks operate without the benefits of overarching consensus or legal systems. Formally articulated, agent-centric reputation systems help communities and individuals discover and interact with each other in such environments. 
 
 Sacred Capital is building modular infrastructure that help micro-communities, Neighbourhoods, apps and networks drive whole new dimensions of engagement for their members.
 
-At the heart of our infrastructure is the Reputation Vault, a suite of libraries, micro-services and a formal language for cultural articulation. The first implementation of the Reputation Vault is on Holochain's agent-centric fabric because of it's emphasis on contextual validation.
+At the heart of our infrastructure is the Reputation Vault, a set of libraries, micro-services and a formal language for cultural articulation. 
 
-![](.gitbook/assets/rep-vault.png)
+![](../.gitbook/assets/rep-vault.png)
 
 The Reputation Vault enables communities to articulate their culture formally, allows agents to discover one another on the basis of this cultural articulation and port their reputation across contexts. 
 
@@ -34,11 +34,33 @@ Sacred Capital's DSL facilitates easy articulation of scores to empower collecti
 
 The Reputation Vault plays a key role in activating Reputation Currencies, and generating network effects for them _In the long run, we hope this may facilitate new kinds of social orchestration through the construction of 'Neighbourhoods'._ 
 
-![](.gitbook/assets/bazaars%20%281%29.png)
+![](../.gitbook/assets/bazaars%20%281%29.png)
 
 Bazaars is a set of tools for commercial operations rooted in social fabric. Think of it as a _cross-membrane co-ordination protocol for monetary transactions in multiple Neighbourhoods_. These protocols are specifically suited to avoid common multi-exchange problems like double-spending and differential offers made based on the context. 
 
 Bazaars heavily leverages Holo-REA/Value Flows protocols. 
 
-The intersection of monetary and reputational currencies. See Bazaars link for more. They are orthogonal.
+
+
+
+
+
+
+
+
+
+
+The Reputation Vault is a tool for distributed networks that enables contextual porting of reputation data across networks. Each neighbourhood or micro-network articulates reputation, and proposes to import it, agents must consent to this porting. 
+
+Components of Reputation vault:
+
+* Reputation Data: compiled and organised as libraries, these serve as the smallest building block for reputation currencies.
+* Reputation Interchange: A consent mechanism for providing access to reputation data from other contexts. For example, an agent in one neighbourhood may consent to reputation data from other contexts to be used in this new context.
+* Reputation Scores: Mathematical computation on individual reputation data blocks. The reputation data used may be from varied contexts.
+
+
+
+
+
+
 
