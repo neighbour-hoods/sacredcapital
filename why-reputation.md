@@ -10,7 +10,7 @@ A few fundamental principles to be honoured while building with reputation curre
 
 {% embed url="https://medium.com/sacred-capital/how-does-the-reputation-economy-work-60bf8c43a84b" %}
 
-Sacred Capital's infrastructure facilitates network effects for reputation currencies. In the long run, this fosters a wealth system, that doesn't need overarching consensus to operate. Think of it as distributed, agent-centric fabric that underpins interactions in distributed networks.
+Sacred Capital's infrastructure facilitates network effects for reputation currencies. In the long run, this fosters a wealth system that doesn't need overarching consensus to operate. Think of it as distributed, agent-centric fabric that underpins interactions in distributed networks.
 
 ![](https://docs.google.com/drawings/u/0/d/shHte9h9W46ClenUo-yzYbQ/image?w=454&h=211&rev=212&ac=1&parent=1XDgOlqlhmbIPoqrI2v3Ap8wdk1yDAMWWIUSKz1VT6lQ)
 
