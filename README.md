@@ -6,7 +6,7 @@ description: Economic Infrastructure for Distributed Networks
 
 Distributed networks operate without the benefits of overarching consensus or legal systems. Formally articulated, agent-centric reputation systems help communities and individuals discover and interact with each other in such environments. 
 
-Sacred Capital is building modular infrastructure that micro-communities, [Neighbourhoods](https://app.gitbook.com/@sacred-capital/s/neighbourhoods), apps and networks drive whole new dimensions of engagement for their members.
+Sacred Capital is building modular infrastructure that micro-communities, [Neighbourhoods](https://sacred-capital.gitbook.io/neighbourhoods/), apps and networks drive whole new dimensions of engagement for their members.
 
 At the heart of our infrastructure is the Reputation Vault, a suite of libraries, micro-services and a formal language for cultural articulation. The first implementation of the Reputation Vault is on Holochain's agent-centric fabric because of it's emphasis on contextual validation.
 
