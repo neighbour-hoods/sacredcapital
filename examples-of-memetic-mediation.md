@@ -41,7 +41,7 @@ They now have the option of building Memetic Bridges to a few allied collectives
 1. Broadening the pool of members  
 
 
-Assume there is a related collective called Economi-kittens that have similar conversations about economic tool-kits. Some members of Economikit have also been active in Economi-Kittens.   
+Assume there is a related collective called Ecoi-kittens that have similar conversations about economic tool-kits. Some members of Economikit have also been active in Eco-Kittens.   
 
 
 ![](https://lh5.googleusercontent.com/9sdouIm__ZgvX-eEeFO-qNFXfvDn9QXnaiw6Q8ay78gXLXqH8glaLMQa4dMQefxUxzk5PzInOD5KxtG8uAjQr3UHyFdZL-qtSNWtiodWMkTnuP-FLGtxmxQyZ5QMFxEv2HVUtFCG)
