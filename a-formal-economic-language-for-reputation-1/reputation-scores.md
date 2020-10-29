@@ -10,7 +10,7 @@ Reputation data from across contexts is computed within a neighbourhood to gener
 
 ![](../.gitbook/assets/image.png)
 
-In the case above, Reputation Data from multiple Neighbourhoods is used to compute some sort of Reputation Score in Neighbourhood A, with the users consent. An example of such a computation may be ascertaining if the user is 'Punctual' using timestamp data. Neighbourhood A may use a binary representation of wether the user is 'Punctual', or 'Not Punctual' based on the timestamps. Neighbourhood B may compute a similar score in its own context, with building blocks that are relevant to them, using a different representation of punctuality. Perhaps they don't believe punctuality is binary, but rather, a 'Star Rating'. 
+In the case above, Reputation Data from multiple Neighbourhoods is used to compute some sort of Reputation Score in Neighbourhood A, with the user's consent. An example of such a computation may be ascertaining if the user is 'Punctual' using timestamp data. Neighbourhood A may use a binary representation of whether the user is 'Punctual', or 'Not Punctual' based on the timestamps. Neighbourhood B may compute a similar score in its own context, with building blocks that are relevant to them, using a different representation of punctuality. Perhaps they don't believe punctuality is binary, but rather, a 'Star Rating'. 
 
 
 
