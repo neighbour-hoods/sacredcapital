@@ -6,13 +6,13 @@ description: >-
 
 # Reputation Data
 
-Reputation data types are the smallest tangible building blocks that comprise the reputation economy. The serve as inputs to mathematical computations, resulting in Reputation Scores, which agents may psychologically relate to better. 
+Reputation data types are the smallest tangible building blocks that comprise the reputation economy. They serve as inputs to mathematical computations, resulting in Reputation Scores, which agents may psychologically relate to better. 
 
-Agents, hold 'agency' over reputation data. When entering a new network or neighbourhood, they may be asked to expose reputation data from another context. Their consent allows for reputation data to be 'ported'. Reputation Scores are then calculated locally, as explained in subsequent sections. Porting of reputation occurs through 'memetic bridges', which will also be explained later.
+Agents hold 'agency' over reputation data. When entering a new network or neighbourhood, they may be asked to expose reputation data from another context. Their consent allows for reputation data to be 'ported'. Reputation Scores are then calculated locally, as explained in subsequent sections. Porting of reputation occurs through 'memetic bridges', which will also be explained later.
 
-The result is a fragmented, contextual snapshot of reputation that can be used to convey more nuance bits of information. 
+The result is a fragmented, contextual snapshot of reputation that can be used to convey more nuanced bits of information. 
 
-Reputation Data can be classified into two broad categories given below
+Reputation Data can be classified into two broad categories given below:
 
 ### Objective Reputation Data Types
 
